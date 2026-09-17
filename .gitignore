@@ -1,0 +1,9 @@
+node_modules/
+user_data/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+.env
+.env.*
+.deps-done
+.scan-passed
